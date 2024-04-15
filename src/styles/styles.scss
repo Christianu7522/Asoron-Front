@@ -1,0 +1,20 @@
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+
+.pointer {
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: 'BrothersRegular';
+  src: url('./fonts/Brothers-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BrothersBold';
+  src: url('./fonts/Brothers-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
