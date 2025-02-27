@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: 'https://asoron.azurewebsites.net',
+    baseURL: 'https://backend.asoucab.com',
     headers: {
         Authorization: ''
     },
